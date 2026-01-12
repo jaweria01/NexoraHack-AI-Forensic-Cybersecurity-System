@@ -20,22 +20,22 @@ This project bridges that gap by linking **AI forensic analysis** with **cryptog
 
 ## 🧠 Key Features
 
-### 🔒 Evidence Locking  
+#### 🔒 Evidence Locking  
 Digital evidence is cryptographically hashed at upload time to prevent tampering.
 
-### 🤖 AI-Based Forensic Analysis  
+#### 🤖 AI-Based Forensic Analysis  
 Machine learning is used to analyze log data, detect anomalies, and reconstruct forensic timelines.
 
-### 📜 Chain of Custody Enforcement  
+#### 📜 Chain of Custody Enforcement  
 Every action (upload, AI analysis, verification) is logged with timestamps to ensure traceability.
 
-### 🔍 Integrity Verification  
+#### 🔍 Integrity Verification  
 Evidence integrity is re-verified before and after AI access.
 
-### 📄 Forensic Report Generation  
+#### 📄 Forensic Report Generation  
 Automatically generates a downloadable, human-readable forensic report.
 
-### 🎭 Demo Mode vs Forensic Mode  
+#### 🎭 Demo Mode vs Forensic Mode  
 Clean demo sessions for presentations, with persistent custody tracking for realistic forensic use.
 
 ## 🌍 Real-World Use Cases
