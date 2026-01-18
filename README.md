@@ -1,5 +1,5 @@
 
-# 🛡️ HackSecureX-AI-Forensic-Cybersecurity System
+# 🛡️ CyberTrust-AI-Forensic-Cybersecurity System
 
 **HackSecureX-AI-Forensic-Cybersecurity System** is an AI-assisted digital forensics system developed for the **HackSecureX International Hackathon 2026**.  
 The project addresses real-world challenges at the intersection of **cybersecurity, artificial intelligence, and cyber law** by ensuring that AI-based forensic analysis remains **legally defensible and trustworthy**.It integrates ML–based log analysis with cryptographic evidence locking to detect cyber incidents while preserving data integrity.
@@ -67,7 +67,7 @@ This system is designed for scenarios where **technical accuracy and legal trust
 
 ## ⚖️ Hackathon Alignment
 
-This project directly aligns with the goals of **HackSecureX International Hackathon 2026** by:
+This project directly aligns with the goals of **Nexora Hacks 2026 Hackathon ** by:
 
 - Bridging AI innovation with cyber governance  
 - Promoting responsible and transparent AI  
